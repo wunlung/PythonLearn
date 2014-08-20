@@ -1,0 +1,2 @@
+# Install python module
+python setup.py install
